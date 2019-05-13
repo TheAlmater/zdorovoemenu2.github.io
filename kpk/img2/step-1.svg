@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="53px" height="53px" viewBox="0 0 53 53" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Step</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="1440" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Main_1440" transform="translate(-134.000000, -4269.000000)">
+            <g id="Group-20" transform="translate(135.000000, 4270.000000)">
+                <g id="Group-19">
+                    <g id="Step">
+                        <g id="1">
+                            <circle id="Oval-3" fill="#D0E6BB" opacity="0.699965533" cx="27.641791" cy="27.641791" r="24.358209"></circle>
+                            <circle id="Oval-3" stroke="#256D77" cx="24.358209" cy="24.358209" r="24.358209"></circle>
+                            <text font-family="Gilroy-Semibold, Gilroy" font-size="22" font-weight="500" letter-spacing="0.4230769" fill="#5D8C93">
+                                <tspan x="18" y="32">1</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="8px" viewBox="0 0 12 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>chevron-down</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="1440" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Main/FAQ_1440" transform="translate(-1155.000000, -1347.000000)">
+            <g id="Group-5-Copy-4" transform="translate(235.000000, 1332.000000)">
+                <g id="Вопрос" transform="translate(32.000000, 0.000000)">
+                    <g id="chevron-down" transform="translate(893.500000, 19.000000) scale(1, -1) translate(-893.500000, -19.000000) translate(881.000000, 7.000000)">
+                        <g transform="translate(12.500000, 12.000000) rotate(-90.000000) translate(-12.500000, -12.000000) translate(0.500000, -0.500000)">
+                            <rect id="Rectangle-3" x="0" y="0" width="24" height="25"></rect>
+                            <polygon id="Shape" fill="#256D77" fill-rule="nonzero" points="15.41 17.58 10.83 13 15.41 8.41 14 7 8 13 14 19"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
